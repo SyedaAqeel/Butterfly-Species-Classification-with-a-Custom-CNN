@@ -6,13 +6,8 @@ This project designs, trains, and evaluates a convolutional neural network that 
 <table align="center">
   <tr>
     <td><img src="figures/1.jpg" width="300" height="300" alt="Butterfly 1"></td>
-    <td><img src="figures/2.jpg" width="300" height="300" alt="Butterfly 2"></td>
+    <td><img src="figures/6.jpg" width="300" height="300" alt="Butterfly 2"></td>
     <td><img src="figures/3.jpg" width="300" height="300" alt="Butterfly 3"></td>
-  </tr>
-  <tr>
-    <td><img src="figures/5.jpg" width="300" height="300" alt="Butterfly 4"></td>
-    <td><img src="figures/4.jpg" width="300" height="300" alt="Butterfly 5"></td>
-    <td><img src="figures/6.jpg" width="300" height="300" alt="Butterfly 6"></td>
   </tr>
 </table>
 
