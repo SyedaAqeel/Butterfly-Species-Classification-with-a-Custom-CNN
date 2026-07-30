@@ -2,9 +2,25 @@
 
 This project designs, trains, and evaluates a convolutional neural network that classifies butterfly images sourced from [iNaturalist](https://www.inaturalist.org) observations. Rather than predicting across the full long-tail of species in the dataset, the model targets the 9 most frequently observed species in the training set, with every other species collapsed into a 10th "other" class — a common strategy for handling extreme class imbalance in real-world biodiversity data.
 
+
+<table align="center">
+  <tr>
+    <td><img src="figures/1.jpg" width="300" height="300" alt="1"></td>
+    <td><img src="figures/2.jpg" width="300" height="300" alt="Butterfly 2"></td>
+    <td><img src="figures/3.jpg" width="300" height="300" alt="Butterfly 3"></td>
+  </tr>
+  <tr>
+    <td><img src="figures/4.jpg" width="300" height="300" alt="Butterfly 4"></td>
+    <td><img src="figures/5.jpg" width="300" height="300" alt="Butterfly 5"></td>
+    <td><img src="figures/6.jpg" width="300" height="300" alt="Butterfly 6"></td>
+  </tr>
+</table>
+
+
 ## Course
 
 DS 542 Deep Learning for Data Science - Boston University
+
 
 ## Model Architecture
 
