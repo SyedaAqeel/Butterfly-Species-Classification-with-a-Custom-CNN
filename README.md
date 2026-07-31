@@ -20,5 +20,6 @@ The proposed ButterflyCNN is a custom residual convolutional neural network deve
 
 ## Course
 
-DS 542 Deep Learning for Data Science - Boston University
+DS 542 - Deep Learning for Data Science<br>
+Boston University
 
